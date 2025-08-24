@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice to Text</string>
+    <string name="ime_name">My Custom Keyboard</string>
+
+</resources>
